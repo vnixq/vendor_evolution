@@ -18,11 +18,9 @@ PRODUCT_PACKAGES += \
     EvoEgg \
     GameSpace \
     Papers \
-    ParallelSpace \
     RepainterServicePriv \
     ThemePicker \
-#    Updates \
-    WallpaperPicker2
+    Updates
 
 # Whether the compiled build to be shipped with Aperture CAM
 TARGET_BUILD_APERTURE_CAMERA ?= true
